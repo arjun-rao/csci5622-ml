@@ -5,6 +5,7 @@
 - This schedule is a rough approximation and subject to change.
 - Reading assignments are from [A Course in Machine Learning](http://ciml.info/), by [Hal Daumé III](http://hal3.name/).
 - Homework is due on Moodle by 11:59pm on Friday.
+- You can always preview the next lecture [here](https://chenhaot.com/tmp/lecture_preview.pdf).
 
 
 | Week   | Date         | Reading      |                   Topic               	   | Slides      | Homework   | 
@@ -14,11 +15,11 @@
 | 2 | 9.2 | | Labor Day Holiday | | |
 | | 9.4 | Chapter 2 | Limits of Learning/Bias-Variance Trade-off |[slides](../slides/lec3.pdf) | |
 | 3 | 9.9 |  Chapter 3 | K-Nearest Neighbors/Perceptron I |  [slides](../slides/lec4.pdf)  | |
-|  | 9.11 | Chapter 4 | Perceptron II & Hands on | | HW1 due |
-| 4 | 9.16 | Chapter 5 | Feature Engineering |  | |
-|  | 9.18 | Chapter 9 & Chapter 7 | Logistic regression| | |
-| 5 | 9.23 | Chapter 7 | Stochastic gradient  | |
-|  | 9.25 | Chapter 5 | Validation & Evaluation metrics I | | |
+|  | 9.11 | Chapter 4 | Perceptron II & Hands on | [slides](../slides/lec5.pdf), [notebook](../in-class-notebooks/Hands_On_KNN_Perceptron.ipynb) | HW1 due |
+| 4 | 9.16 | Chapter 5 | Feature Engineering |  [slides](../slides/lec6.pdf)| |
+|  | 9.18 | Chapter 9 & Chapter 7 | Logistic regression| [slides](../slides/lec7.pdf) | |
+| 5 | 9.23 | Chapter 7 | Stochastic gradient  | [slides](../slides/lec8.pdf) |
+|  | 9.25 | Chapter 5 | Validation & Evaluation metrics I | [slides](../slides/lec9.pdf) | |
 | 6 | 9.30 |Chapter 5 | Evaluation metrics II & Multiclass classification | | |
 |  | 10.2 |Chapter 6 | Hands on logistic regression, validation and evaluation metrics | | Final project team formation due, HW2 Due |
 | 7 | 10.7 | Chapter 10 |  Neural Nets I  |  | |
